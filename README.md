@@ -1,6 +1,6 @@
-# soc_504_replication
+# Replication Project for SOC 504 (Spring 2026)
 
-Standalone R replication repository for the main analysis in Best et al. (2023). 
+Standalone R replication repository for the main analysis in [Best et al. (2023)](https://www.nature.com/articles/s41467-023-43835-6). 
 
 ## What this repo does
 
@@ -42,8 +42,6 @@ Verified locally on Windows with `Rscript`.
 - `docs/`: provenance, assumptions, and replication notes
 
 ## Package management
-
-This repo includes `renv` infrastructure and a populated `renv.lock`, but automatic `renv` activation is intentionally disabled in `.Rprofile` so scripted runs stay predictable.
 
 Recommended options:
 
@@ -108,6 +106,4 @@ None for the current standalone workflow. All required runtime inputs are either
 
 ## Documentation
 
-- `docs/DATA_PROVENANCE.md`
 - `docs/ASSUMPTIONS_AND_LIMITATIONS.md`
-- `docs/REPLICATION_NOTES.md`
