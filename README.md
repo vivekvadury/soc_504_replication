@@ -108,6 +108,4 @@ None for the current standalone workflow. All required runtime inputs are either
 
 ## Documentation
 
-- `docs/DATA_PROVENANCE.md`
 - `docs/ASSUMPTIONS_AND_LIMITATIONS.md`
-- `docs/REPLICATION_NOTES.md`
