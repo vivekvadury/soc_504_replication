@@ -1,6 +1,6 @@
 # Replication Project for SOC 504 (Spring 2026)
 
-Standalone R replication repository for the main analysis in Best et al. (2023). 
+Standalone R replication repository for the main analysis in [Best et al. (2023)](https://www.nature.com/articles/s41467-023-43835-6). 
 
 ## What this repo does
 
