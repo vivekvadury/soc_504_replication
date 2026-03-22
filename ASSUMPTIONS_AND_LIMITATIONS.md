@@ -6,7 +6,7 @@
 2. The block universe is reconstructed from fresh 2020 Census block pulls, keyed to the legacy county universe, rather than copied from the legacy block xlsx files.
 3. Missing block / tract / county rows in the preferred `without_zero` exposure inputs are interpreted as zero affected population after universe expansion.
 
-## Why The Legacy Block Files Were Not Used Directly
+## Why The Legacy Block Files Were Not Used Directly (From Author's Original Repository) 
 
 - `data/kelsea/isolation/blocks2020.xlsx` is truncated at the Excel row limit.
 - `data/kelsea/isolation/isolation_block_w_zero.xlsx` is also truncated at the Excel row limit.
