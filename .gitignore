@@ -1,0 +1,17 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rprofile
+.Renviron
+
+data/derived/
+output/figures/
+output/tables/
+output/logs/
+
+renv/library/
+renv/python/
+renv/staging/
+.bootstrap_lib/
+
+*.Rproj.user

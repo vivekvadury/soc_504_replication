@@ -1,0 +1,24 @@
+Package: soc504replication
+Title: Replication Workflow for Best et al. (2023)
+Version: 0.0.1
+Authors@R: 
+    person(given = "Vivek V Adury", family = "User", role = c("aut", "cre"))
+Description: Standalone, script-based replication workflow for the main analysis
+    in Best et al. (2023), rebuilt around repo-local SLR exposure inputs and
+    programmatic Census and TIGER downloads.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: 
+    R (>= 4.3.0)
+Imports:
+    broom,
+    dplyr,
+    ggplot2,
+    purrr,
+    readr,
+    sf,
+    stringr,
+    tibble,
+    tidycensus,
+    tidyr,
+    tigris

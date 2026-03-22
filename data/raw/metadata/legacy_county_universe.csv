@@ -1,0 +1,330 @@
+county_geoid,state_code,state_name
+01003,AL,Alabama
+01097,AL,Alabama
+06001,CA,California
+06013,CA,California
+06015,CA,California
+06023,CA,California
+06037,CA,California
+06041,CA,California
+06045,CA,California
+06053,CA,California
+06055,CA,California
+06059,CA,California
+06073,CA,California
+06075,CA,California
+06079,CA,California
+06081,CA,California
+06083,CA,California
+06085,CA,California
+06087,CA,California
+06095,CA,California
+06097,CA,California
+06111,CA,California
+09001,CT,Connecticut
+09003,CT,Connecticut
+09007,CT,Connecticut
+09009,CT,Connecticut
+09011,CT,Connecticut
+10001,DE,Delaware
+10003,DE,Delaware
+10005,DE,Delaware
+11001,DC,District of Columbia
+12005,FL,Florida
+12009,FL,Florida
+12011,FL,Florida
+12015,FL,Florida
+12017,FL,Florida
+12019,FL,Florida
+12021,FL,Florida
+12027,FL,Florida
+12029,FL,Florida
+12031,FL,Florida
+12033,FL,Florida
+12035,FL,Florida
+12037,FL,Florida
+12041,FL,Florida
+12045,FL,Florida
+12053,FL,Florida
+12057,FL,Florida
+12061,FL,Florida
+12065,FL,Florida
+12069,FL,Florida
+12071,FL,Florida
+12075,FL,Florida
+12077,FL,Florida
+12081,FL,Florida
+12083,FL,Florida
+12085,FL,Florida
+12086,FL,Florida
+12087,FL,Florida
+12089,FL,Florida
+12091,FL,Florida
+12099,FL,Florida
+12101,FL,Florida
+12103,FL,Florida
+12107,FL,Florida
+12109,FL,Florida
+12111,FL,Florida
+12113,FL,Florida
+12115,FL,Florida
+12117,FL,Florida
+12123,FL,Florida
+12127,FL,Florida
+12129,FL,Florida
+12131,FL,Florida
+12133,FL,Florida
+13025,GA,Georgia
+13029,GA,Georgia
+13039,GA,Georgia
+13049,GA,Georgia
+13051,GA,Georgia
+13127,GA,Georgia
+13179,GA,Georgia
+13183,GA,Georgia
+13191,GA,Georgia
+13305,GA,Georgia
+15001,HI,Hawaii
+15003,HI,Hawaii
+15007,HI,Hawaii
+15009,HI,Hawaii
+22001,LA,Louisiana
+22005,LA,Louisiana
+22007,LA,Louisiana
+22011,LA,Louisiana
+22019,LA,Louisiana
+22023,LA,Louisiana
+22033,LA,Louisiana
+22045,LA,Louisiana
+22047,LA,Louisiana
+22051,LA,Louisiana
+22053,LA,Louisiana
+22055,LA,Louisiana
+22057,LA,Louisiana
+22063,LA,Louisiana
+22071,LA,Louisiana
+22075,LA,Louisiana
+22077,LA,Louisiana
+22087,LA,Louisiana
+22089,LA,Louisiana
+22093,LA,Louisiana
+22095,LA,Louisiana
+22097,LA,Louisiana
+22099,LA,Louisiana
+22101,LA,Louisiana
+22103,LA,Louisiana
+22105,LA,Louisiana
+22109,LA,Louisiana
+22113,LA,Louisiana
+22121,LA,Louisiana
+23005,ME,Maine
+23009,ME,Maine
+23011,ME,Maine
+23013,ME,Maine
+23015,ME,Maine
+23019,ME,Maine
+23023,ME,Maine
+23027,ME,Maine
+23029,ME,Maine
+23031,ME,Maine
+24003,MD,Maryland
+24005,MD,Maryland
+24009,MD,Maryland
+24011,MD,Maryland
+24015,MD,Maryland
+24017,MD,Maryland
+24019,MD,Maryland
+24025,MD,Maryland
+24027,MD,Maryland
+24029,MD,Maryland
+24033,MD,Maryland
+24035,MD,Maryland
+24037,MD,Maryland
+24039,MD,Maryland
+24041,MD,Maryland
+24045,MD,Maryland
+24047,MD,Maryland
+24510,MD,Maryland
+25001,MA,Massachusetts
+25005,MA,Massachusetts
+25007,MA,Massachusetts
+25009,MA,Massachusetts
+25017,MA,Massachusetts
+25019,MA,Massachusetts
+25021,MA,Massachusetts
+25023,MA,Massachusetts
+25025,MA,Massachusetts
+28045,MS,Mississippi
+28047,MS,Mississippi
+28059,MS,Mississippi
+33015,NH,New Hampshire
+33017,NH,New Hampshire
+34001,NJ,New Jersey
+34003,NJ,New Jersey
+34005,NJ,New Jersey
+34007,NJ,New Jersey
+34009,NJ,New Jersey
+34011,NJ,New Jersey
+34013,NJ,New Jersey
+34015,NJ,New Jersey
+34017,NJ,New Jersey
+34021,NJ,New Jersey
+34023,NJ,New Jersey
+34025,NJ,New Jersey
+34029,NJ,New Jersey
+34031,NJ,New Jersey
+34033,NJ,New Jersey
+34039,NJ,New Jersey
+36001,NY,New York
+36005,NY,New York
+36021,NY,New York
+36027,NY,New York
+36039,NY,New York
+36047,NY,New York
+36059,NY,New York
+36061,NY,New York
+36071,NY,New York
+36079,NY,New York
+36081,NY,New York
+36083,NY,New York
+36085,NY,New York
+36087,NY,New York
+36103,NY,New York
+36111,NY,New York
+36119,NY,New York
+37013,NC,North Carolina
+37015,NC,North Carolina
+37017,NC,North Carolina
+37019,NC,North Carolina
+37029,NC,North Carolina
+37031,NC,North Carolina
+37041,NC,North Carolina
+37047,NC,North Carolina
+37049,NC,North Carolina
+37053,NC,North Carolina
+37055,NC,North Carolina
+37073,NC,North Carolina
+37091,NC,North Carolina
+37095,NC,North Carolina
+37103,NC,North Carolina
+37117,NC,North Carolina
+37129,NC,North Carolina
+37133,NC,North Carolina
+37137,NC,North Carolina
+37139,NC,North Carolina
+37141,NC,North Carolina
+37143,NC,North Carolina
+37147,NC,North Carolina
+37177,NC,North Carolina
+37187,NC,North Carolina
+41007,OR,Oregon
+41009,OR,Oregon
+41011,OR,Oregon
+41015,OR,Oregon
+41019,OR,Oregon
+41039,OR,Oregon
+41041,OR,Oregon
+41051,OR,Oregon
+41057,OR,Oregon
+42017,PA,Pennsylvania
+42045,PA,Pennsylvania
+42101,PA,Pennsylvania
+44001,RI,Rhode Island
+44003,RI,Rhode Island
+44005,RI,Rhode Island
+44007,RI,Rhode Island
+44009,RI,Rhode Island
+45013,SC,South Carolina
+45015,SC,South Carolina
+45019,SC,South Carolina
+45029,SC,South Carolina
+45035,SC,South Carolina
+45043,SC,South Carolina
+45049,SC,South Carolina
+45051,SC,South Carolina
+45053,SC,South Carolina
+45089,SC,South Carolina
+48007,TX,Texas
+48039,TX,Texas
+48057,TX,Texas
+48061,TX,Texas
+48071,TX,Texas
+48167,TX,Texas
+48199,TX,Texas
+48201,TX,Texas
+48239,TX,Texas
+48241,TX,Texas
+48245,TX,Texas
+48261,TX,Texas
+48273,TX,Texas
+48291,TX,Texas
+48321,TX,Texas
+48351,TX,Texas
+48355,TX,Texas
+48361,TX,Texas
+48391,TX,Texas
+48409,TX,Texas
+48469,TX,Texas
+48489,TX,Texas
+51001,VA,Virginia
+51013,VA,Virginia
+51033,VA,Virginia
+51036,VA,Virginia
+51041,VA,Virginia
+51057,VA,Virginia
+51059,VA,Virginia
+51073,VA,Virginia
+51085,VA,Virginia
+51087,VA,Virginia
+51093,VA,Virginia
+51095,VA,Virginia
+51097,VA,Virginia
+51099,VA,Virginia
+51101,VA,Virginia
+51103,VA,Virginia
+51115,VA,Virginia
+51119,VA,Virginia
+51127,VA,Virginia
+51131,VA,Virginia
+51133,VA,Virginia
+51149,VA,Virginia
+51153,VA,Virginia
+51159,VA,Virginia
+51175,VA,Virginia
+51177,VA,Virginia
+51179,VA,Virginia
+51181,VA,Virginia
+51193,VA,Virginia
+51199,VA,Virginia
+51510,VA,Virginia
+51550,VA,Virginia
+51570,VA,Virginia
+51620,VA,Virginia
+51630,VA,Virginia
+51650,VA,Virginia
+51670,VA,Virginia
+51700,VA,Virginia
+51710,VA,Virginia
+51730,VA,Virginia
+51735,VA,Virginia
+51740,VA,Virginia
+51760,VA,Virginia
+51800,VA,Virginia
+51810,VA,Virginia
+53009,WA,Washington
+53011,WA,Washington
+53015,WA,Washington
+53027,WA,Washington
+53029,WA,Washington
+53031,WA,Washington
+53033,WA,Washington
+53035,WA,Washington
+53045,WA,Washington
+53049,WA,Washington
+53053,WA,Washington
+53055,WA,Washington
+53057,WA,Washington
+53061,WA,Washington
+53067,WA,Washington
+53069,WA,Washington
+53073,WA,Washington
