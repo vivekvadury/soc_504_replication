@@ -105,3 +105,4 @@ None for the current standalone workflow. All required runtime inputs are either
 ## Documentation
 
 - `docs/ASSUMPTIONS_AND_LIMITATIONS.md`
+- - `docs/Best et al. (2023).pdf`
