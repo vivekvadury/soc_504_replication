@@ -43,8 +43,6 @@ Verified locally on Windows with `Rscript`.
 
 ## Package management
 
-This repo includes `renv` infrastructure and a populated `renv.lock`, but automatic `renv` activation is intentionally disabled in `.Rprofile` so scripted runs stay predictable.
-
 Recommended options:
 
 1. Easiest: run `scripts/00_run_all.R`. It calls `scripts/01_setup.R` first.
