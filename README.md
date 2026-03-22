@@ -28,8 +28,6 @@ This repository reproduces the main replicable analysis workflow for:
   - TIGER geometry downloads
 - Enough disk space for downloaded packages, derived data, and figures
 
-Verified locally on Windows with `Rscript`.
-
 ## Project structure
 
 - `data/raw/slr/`: included block-level SLR exposure inputs
