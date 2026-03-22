@@ -1,4 +1,4 @@
-# soc_504_replication
+# Replication Project for SOC 504 (Spring 2026)
 
 Standalone R replication repository for the main analysis in Best et al. (2023). 
 
