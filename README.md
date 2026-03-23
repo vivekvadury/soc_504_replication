@@ -17,7 +17,7 @@ This repository reproduces the main replicable analysis workflow for:
 ## What this repo does not do
 
 - It does not recompute isolation from road networks, schools, fire stations, or service routing.
-- It does not replicate the timing / tide-gauge projection analysis analogous to paper Figure 2.
+- It does not replicate the timing / tide-gauge projection analysis captured in Figure 2 in Best et al. (2023). 
 
 ## System requirements
 
@@ -105,3 +105,4 @@ None for the current standalone workflow. All required runtime inputs are either
 ## Documentation
 
 - `docs/ASSUMPTIONS_AND_LIMITATIONS.md`
+- `docs/Best et al. (2023).pdf`
