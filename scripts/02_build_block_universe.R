@@ -106,18 +106,4 @@ block_universe_summary <- tibble::tibble(
   )
 )
 
-block_universe_statement <- tibble::tribble(
-  ~statement, ~detail,
-  "County universe source", "Included repo seed copied from the identified legacy county universe",
-  "Block universe rule", "All 2020 Census blocks in the seeded analysis counties",
-  "Zero-population blocks retained", "Yes",
-  "Exposure files define the universe", "No; they are joined after the universe is built",
-  "Additional service-access or road filters applied here", "No"
-)
-
-write_rds_output(block_universe, file.path(paths$universe_dir, "block_universe.rds"))
-write_csv_output(block_universe_summary, file.path(paths$universe_dir, "block_universe_summary.csv"))
-write_csv_output(block_universe_statement, file.path(paths$universe_dir, "block_universe_statement.csv"))
-write_csv_output(county_seed, file.path(paths$universe_dir, "analysis_county_seed.csv"))
-
 message("Block universe build complete.")
