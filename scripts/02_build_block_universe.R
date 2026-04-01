@@ -106,4 +106,8 @@ block_universe_summary <- tibble::tibble(
   )
 )
 
+write_rds_output(block_universe, file.path(paths$universe_dir, "block_universe.rds"))
+write_csv_output(block_universe_summary, file.path(paths$universe_dir, "block_universe_summary.csv"))
+write_csv_output(county_seed, file.path(paths$universe_dir, "analysis_county_seed.csv"))
+
 message("Block universe build complete.")
